@@ -2,8 +2,8 @@
  *
  *
  * @author AmariBolmer
- * Student ID: 909237438
- * Student Email : abolmer@mail.sfsu.edu
+ * Student ID: 
+ * Student Email : 
  */
 package java_dictionaryproject;
 
